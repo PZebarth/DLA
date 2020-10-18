@@ -1,5 +1,5 @@
 # DLA
-### Diffusion limited aggregation (DLA) of a rectangular attractor 
+### Diffusion Limited Aggregation (DLA) of a Rectangular Attractor 
 ## Project Description
 The process begins with a deposited molecule, which can originate at the origin, on a surface, or randomly in space. Then, this molecule Randomly walks in space. When it reaches the seed molecule it sticks, in figure 1 that would be the origin, or in b and c the border of the enclosing surface. This process continues and molecules begin sticking to each other until images form like in figure 1. There are different geometries of Diffusion limited aggregation seed particles and also instances such as decreasing particles or particles of various sizes. <br>
 
